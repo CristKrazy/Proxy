@@ -1,1 +1,3 @@
-# Proxy
+# HTTP
+# SOCKS 5
+# SOCKS 4
